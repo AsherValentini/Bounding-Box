@@ -1,0 +1,3 @@
+/home/asher/cpp-projects/Bounding-Box/build/CMakeFiles/prog.dir
+/home/asher/cpp-projects/Bounding-Box/build/CMakeFiles/edit_cache.dir
+/home/asher/cpp-projects/Bounding-Box/build/CMakeFiles/rebuild_cache.dir
